@@ -2,3 +2,4 @@ src/
 .vscode
 .DS_Store
 dump.sql
+template
